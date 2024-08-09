@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shivyansh05
 - 👀 I’m interested in web development,data structures and algorithms
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+email - shivyanshsharma2018@gmail.com 
 
 <!---
 Shivyansh05/Shivyansh05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
